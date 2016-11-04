@@ -5,4 +5,8 @@ i like dirk
 aaaaa
 bbbbb
 ccccc
+<<<<<<< HEAD
 eeeee
+=======
+ddddd
+>>>>>>> origin/master
